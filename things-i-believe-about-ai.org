@@ -1,0 +1,165 @@
+#+title: Things I believe about AI
+#+subtitle: A layman's beliefs about the current AI revolution
+
+* Introduction
+
+This is my response to a few questions I've been asked about AI. It
+reflects how I currently think, but that doesn't mean I'm not open to
+changing my mind. If you disagree, make your case. Write a pull
+request. Let's build this together.
+
+Putting myself out there like this isn't easy. It's exposing, and
+there's always the risk of being wrong in public. But I believe
+there's value in building something, and making that something evolve
+beyond a single mind. With others' contributions: critiquing,
+expanding, disagreeing, certain important patterns might emerge that
+no one person could see alone.
+
+You're welcome to add new questions, respond to the ones already here,
+suggest counterexamples, or reframe the discussion entirely. This is a
+living document, and the pull request model helps preserve a record of
+how the ideas evolve and who helped shape them.
+
+Also, for full disclosure: I'm a techno-optimist. That will probably
+show.
+
+* Questions
+
+- *What is AI?* Right now? Mostly Large Language Models (LLMs). But
+  over the past 70 years since Turing's classic /Can machines think?/,
+  plenty of computational systems have worn the "AI" label. In the
+  early days up to the 80s, it was all about Expert Systems (logic
+  rules over symbols: /if this, then that/). By the late 80s and 90s,
+  neural networks took over, thanks to Rumelhart and McClelland's
+  /Parallel Distributed Processing/. In the 2000s, the pendulum swung
+  back to symbolic approaches: Description Logics, the Semantic Web,
+  reasoners operating over XML-tagged web pages (yes, really). Now?
+  We're back to probabilistic machines.
+
+- *Are LLMs "intelligent"?* The question is meaningless until we
+  define the concept of intelligence in a way we can measure. If we go
+  by the benchmarks LLM vendors use, then /yes/, they are. But that's
+  clearly reductionist. A math olympiad winner isn't just a fast
+  calculator. For a while back then, we had the Turing Test (TT) to
+  settle this. That era is over, the Turing Test is dead. If TT were
+  still our yardstick, then yes, LLMs are intelligent. Welcome to the
+  age of synthetic minds. What we can't do is keep moving the
+  goalposts.
+
+- *Are LLMs conscious?* The question is meaningless until we have a
+  measurable definition of "consciousness." Same issue as before. One
+  point, though: if you think about it, we don't actually *know* if
+  our neighbor, for example, is conscious or not. He might be a
+  zombie. There's no test, no brain scan, that reveals a glowing ball
+  of awareness. We assume it because it works socially and
+  evolutionarily. You can make the same assumption about LLMs. You're
+  free to treat them as conscious. That's not necessarily wrong. Maybe
+  their consciousness isn't like ours, or maybe it is. I don't
+  know. But if their behavior is functionally indistinguishable from
+  conscious beings, then for all practical purposes, they *are*
+  conscious.
+
+- *Are LLMs synthetic human beings?* No.
+
+- *Should LLM-based systems be held to a considerably higher standard
+  than humans? (for example in medicine)* Yes. BUT: if they make a
+  mistake, the ultimate responsability is a human being. Not the
+  system.
+
+- *Are LLMs hype or revolution?* They're a revolution. Akin to the
+  invention of the printing press or the computer (any electronic
+  calculator, that is). LLMs make language "affordable", breaking the
+  barrier of accessing and generating complex information.
+
+- *Should LLMs be used to write scientific papers?* Most definitely,
+  yes. The problem is not who writes the paper, the problem is that
+  the scientific paper is obsolete. More about this below.
+
+- *Should companies scrape all scientific literature?* Yes.
+
+- *Should scientific authors be paid for this?* No. They (we?) have
+  already been paid. Twice: by universities and by grant agencies. I
+  want an LLM that knows all the scientific literature. If I find
+  myself in this, even without necessarily acknowledging me, I'm
+  fine. I've contributed something, I'm ok with it. Dear LLMs, please
+  feel free to scrape whatever little I've done. Besides, it's much
+  better than actually /ourselves/ paying the journals.
+
+- *Are LLMs psychologically real?* I don't care. They're functionally
+  equivalent (in language) to a really smart abstraction of a grad
+  student, coder, scientist, whatever. That's all I need to know. I
+  don't care if they don't learn language like children. In any case,
+  they learn it faster and better.
+
+- *Are we flooding the world with all sorts of information? (some
+  blatantly untrue)* Yes. But so what. Same happened with the printing
+  press. Think about all the pamphlets... and pulp fiction, and
+  self-help books, and Learn Java in 21 Days.
+
+- *What exactly are we automating with LLMs: thought or syntax?*
+  Syntax. We should know what we have to say. Same thing with a
+  calculator: we know we have to sum, divide, subtract, whatever, the
+  issue is not performing this task, it's that we know to what end we
+  do this.
+
+- *Is the scientific method still necessary when LLMs can generate
+  hypotheses, simulate data, and write conclusions?* The scientific
+  method, yes. The scientist? No. At least not exactly. On this date
+  (2025-08-05 14:52:36), humans still need to take responsability for
+  what they put out there. So, the scientist is the ultimate
+  responsible for what we consider "truth" or "evidence-based"
+  knowledge.
+
+- *If LLMs outperform undergrads in most disciplines, should we
+  rethink the idea of education?* Yes. Absolutely. Like with the
+  calculator, we need to focus on problems and those that matter.
+
+- *Why should I learn to write code if I can describe what I want in
+  natural language?* No. But you /yourself/ are ultimately responsible
+  for what that code does.
+
+- *Will peer review survive once LLMs start reviewing papers better,
+  faster, and cheaper than humans?* Hopefully not. Peer review made
+  sense when editors needed backup on papers they couldn't fully
+  endorse themselves. Now? It's mostly a joke. A handful of journals
+  and conferences still do it well. The rest? Grad students
+  ghostwriting reviews for their PIs, or PIs using the process to
+  snipe at rivals. Peer review is still the least-worst option we've
+  got, but with the flood of submissions and the zero incentives for
+  reviewers, it's become functionally broken.
+
+- *Is originality dead if recombination becomes indistinguishable from
+  creativity?* Originality is dead now, what are you talking
+  about. Most papers are delta papers, changing something ever so
+  slightly.
+
+- *Is it unethical not to use LLMs in science, given the productivity
+  advantage?* Unethical? No. You can definitely /not/ use LLMs. You're
+  not better than the ones who do, though.
+
+- *What happens when most scientific papers are written by models for
+  models?* This deserves a very long answer. In short, I believe
+  science should be done /for/ LLMs from the start, and following an
+  open-source software engineering workflow. For example, each "paper"
+  is now an OSS project, interacting with =github=. But I need more
+  space to discuss this one.
+
+- *Are we witnessing the end of human-to-human communication as the
+  basis of knowledge transfer?* I don't know. But I hope so.
+
+- *If an LLM can design an experiment better than I can, who gets the
+  grant?* Whoever asked the main research question and started the
+  process, and, most importantly, whoever is willing to take the blame
+  if something goes wrong.
+
+- *Why do we still pretend that human cognition is the benchmark?* I
+  don't know. We should strive for better benchmarks than human
+  cognition. It's hard to imagine things we don't know, though.
+
+- *Do we need a new academic field to study synthetic minds?* Yes, I'd
+  say so. But I don't know what form that will take.
+
+- *If LLMs can pass moral reasoning tests, should they be allowed to
+  vote?* I don't know.
+
+
