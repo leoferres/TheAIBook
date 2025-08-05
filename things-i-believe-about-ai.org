@@ -27,7 +27,7 @@ show.
 
 - *What is AI?* Right now? Mostly Large Language Models (LLMs). But
   over the past 70 years since Turing's classic /Can machines think?/,
-  plenty of computational systems have worn the "AI" label. In the
+  (Turing, Computing Machinery and Intelligence, Mind, 1950) plenty of computational systems have worn the "AI" label. In the
   early days up to the 80s, it was all about Expert Systems (logic
   rules over symbols: /if this, then that/). By the late 80s and 90s,
   neural networks took over, thanks to Rumelhart and McClelland's
