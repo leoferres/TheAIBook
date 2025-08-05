@@ -1,7 +1,7 @@
 #+title: Things I believe about AI
 #+subtitle: A layman's beliefs about the current AI revolution
 
-* Introduction
+** Introduction
 
 This is my response to a few questions I've been asked about AI. It
 reflects how I currently think, but that doesn't mean I'm not open to
@@ -23,7 +23,7 @@ how the ideas evolve and who helped shape them.
 Also, for full disclosure: I'm a techno-optimist. That will probably
 show.
 
-* Questions
+** Questions
 
 - *What is AI?* Right now? Mostly Large Language Models (LLMs). But
   over the past 70 years since Turing's classic /Can machines think?/,
