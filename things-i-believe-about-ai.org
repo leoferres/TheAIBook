@@ -71,11 +71,10 @@ purposes, they are* conscious.
 No.
 
 
-*** Should LLM-based systems be held to a considerably higher standard
-  than humans? (for example in medicine)*
+*** Should LLM-based systems be held to a considerably higher standard than humans?
 
-  Yes. BUT: if they make a mistake, the ultimate responsability is a
-  human being. Not the system.
+Yes. BUT: if they make a mistake, the ultimate responsability is a
+human being. Not the system.
 
 
 *** Are LLMs hype or revolution?
@@ -117,8 +116,7 @@ whatever. That's all I need to know. I don't care if they don't learn
 language like children. In any case, they learn it faster and better.
 
 
-*** Are we flooding the world with all sorts of information? (some
-  blatantly untrue)*
+*** Are we flooding the world with all sorts of information? (some blatantly untrue)
 
 Yes. But so what. Same happened with the printing press. Think about
 all the pamphlets... and pulp fiction, and self-help books, and Learn
@@ -141,75 +139,66 @@ responsability for what they put out there. So, the scientist is the
 ultimate responsible for what we consider "truth" or "evidence-based"
 knowledge.
 
-*** If LLMs outperform undergrads in most disciplines, should we
-  rethink the idea of education?
+*** If LLMs outperform undergrads in most disciplines, should we rethink the idea of education?
 
-  Yes. Absolutely. Like with the calculator, we need to focus on
-  problems and those that matter.
-
-
-*** Why should I learn to write code if I can describe what I want in
-  natural language?
-
-  No. But you /yourself/ are ultimately responsible for what that code
-  does.
+Yes. Absolutely. Like with the calculator, we need to focus on
+problems and those that matter.
 
 
-*** Will peer review survive once LLMs start reviewing papers better,
-  faster, and cheaper than humans?
+*** Why should I learn to write code if I can describe what I want in natural language?
 
-  Hopefully not. Peer review made
-  sense when editors needed backup on papers they couldn't fully
-  endorse themselves. Now? It's mostly a joke. A handful of journals
-  and conferences still do it well. The rest? Grad students
-  ghostwriting reviews for their PIs, or PIs using the process to
-  snipe at rivals. Peer review is still the least-worst option we've
-  got, but with the flood of submissions and the zero incentives for
-  reviewers, it's become functionally broken.
+No. But you /yourself/ are ultimately responsible for what that code
+does.
 
 
-*** Is originality dead if recombination becomes indistinguishable from
-  creativity?
+*** Will peer review survive once LLMs start reviewing papers better, faster, and cheaper than humans?
 
-  Originality is dead now, what are you talking about. Most papers are
-  delta papers, changing something ever so slightly.
-
-
-*** Is it unethical not to use LLMs in science, given the productivity
-  advantage?
-
-  Unethical? No. You can definitely /not/ use LLMs. You're not better
-  than the ones who do, though.
+Hopefully not. Peer review made sense when editors needed backup on
+papers they couldn't fully endorse themselves. Now? It's mostly a
+joke. A handful of journals and conferences still do it well. The
+rest? Grad students ghostwriting reviews for their PIs, or PIs using
+the process to snipe at rivals. Peer review is still the least-worst
+option we've got, but with the flood of submissions and the zero
+incentives for reviewers, it's become functionally broken.
 
 
-*** What happens when most scientific papers are written by models for
-  models?
+*** Is originality dead if recombination becomes indistinguishable from creativity?
 
-  This deserves a very long answer. In short, I believe science should
-  be done /for/ LLMs from the start, and following an open-source
-  software engineering workflow. For example, each "paper" is now an
-  OSS project, interacting with =github=. But I need more space to
-  discuss this one.
+Originality is dead now, what are you talking about. Most papers are
+delta papers, changing something ever so slightly.
 
 
-*** Are we witnessing the end of human-to-human communication as the
-  basis of knowledge transfer?
+*** Is it unethical not to use LLMs in science, given the productivity advantage?
 
-  I don't know. But I hope so.
+Unethical? No. You can definitely /not/ use LLMs. You're not better
+than the ones who do, though.
 
 
-*** If an LLM can design an experiment better than I can, who gets the
-  grant?
+*** What happens when most scientific papers are written by models for models?
 
-  Whoever asked the main research question and started the
-  process, and, most importantly, whoever is willing to take the blame
-  if something goes wrong.
+This deserves a very long answer. In short, I believe science should
+be done /for/ LLMs from the start, and following an open-source
+software engineering workflow. For example, each "paper" is now an OSS
+project, interacting with =github=. But I need more space to discuss
+this one.
+
+
+*** Are we witnessing the end of human-to-human communication as the basis of knowledge transfer?
+
+I don't know. But I hope so.
+
+
+*** If an LLM can design an experiment better than I can, who gets the grant?
+
+Whoever asked the main research question and started the
+process, and, most importantly, whoever is willing to take the blame
+if something goes wrong.
 
 
 *** Why do we still pretend that human cognition is the benchmark?
 
-  I don't know. We should strive for better benchmarks than human
-  cognition. It's hard to imagine things we don't know, though.
+I don't know. We should strive for better benchmarks than human
+cognition. It's hard to imagine things we don't know, though.
 
 
 *** Do we need a new academic field to study synthetic minds?
@@ -219,4 +208,5 @@ Yes, I'd say so. But I don't know what form that will take.
 
 *** If LLMs can pass moral reasoning tests, should they be allowed to vote?
 
-  I don't know.
+I don't know.
+
