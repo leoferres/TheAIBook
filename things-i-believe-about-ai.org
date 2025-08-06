@@ -36,6 +36,7 @@ show.
   reasoners operating over XML-tagged web pages (yes, really). Now?
   We're back to probabilistic machines.
 
+
 - *Are LLMs "intelligent"?* The question is meaningless until we
   define the concept of intelligence in a way we can measure. If we go
   by the benchmarks LLM vendors use, then /yes/, they are. But that's
@@ -45,6 +46,7 @@ show.
   still our yardstick, then yes, LLMs are intelligent. Welcome to the
   age of synthetic minds. What we can't do is keep moving the
   goalposts.
+
 
 - *Are LLMs conscious?* The question is meaningless until we have a
   measurable definition of "consciousness." Same issue as before. One
@@ -59,23 +61,29 @@ show.
   conscious beings, then for all practical purposes, they *are*
   conscious.
 
+
 - *Are LLMs synthetic human beings?* No.
+
 
 - *Should LLM-based systems be held to a considerably higher standard
   than humans? (for example in medicine)* Yes. BUT: if they make a
   mistake, the ultimate responsability is a human being. Not the
   system.
 
+
 - *Are LLMs hype or revolution?* They're a revolution. Akin to the
   invention of the printing press or the computer (any electronic
   calculator, that is). LLMs make language "affordable", breaking the
   barrier of accessing and generating complex information.
 
+
 - *Should LLMs be used to write scientific papers?* Most definitely,
   yes. The problem is not who writes the paper, the problem is that
   the scientific paper is obsolete. More about this below.
 
+
 - *Should companies scrape all scientific literature?* Yes.
+
 
 - *Should scientific authors be paid for this?* No. They (we?) have
   already been paid. Twice: by universities and by grant agencies. I
@@ -85,22 +93,26 @@ show.
   feel free to scrape whatever little I've done. Besides, it's much
   better than actually /ourselves/ paying the journals.
 
+
 - *Are LLMs psychologically real?* I don't care. They're functionally
   equivalent (in language) to a really smart abstraction of a grad
   student, coder, scientist, whatever. That's all I need to know. I
   don't care if they don't learn language like children. In any case,
   they learn it faster and better.
 
+
 - *Are we flooding the world with all sorts of information? (some
   blatantly untrue)* Yes. But so what. Same happened with the printing
   press. Think about all the pamphlets... and pulp fiction, and
   self-help books, and Learn Java in 21 Days.
+
 
 - *What exactly are we automating with LLMs: thought or syntax?*
   Syntax. We should know what we have to say. Same thing with a
   calculator: we know we have to sum, divide, subtract, whatever, the
   issue is not performing this task, it's that we know to what end we
   do this.
+
 
 - *Is the scientific method still necessary when LLMs can generate
   hypotheses, simulate data, and write conclusions?* The scientific
@@ -114,9 +126,11 @@ show.
   rethink the idea of education?* Yes. Absolutely. Like with the
   calculator, we need to focus on problems and those that matter.
 
+
 - *Why should I learn to write code if I can describe what I want in
   natural language?* No. But you /yourself/ are ultimately responsible
   for what that code does.
+
 
 - *Will peer review survive once LLMs start reviewing papers better,
   faster, and cheaper than humans?* Hopefully not. Peer review made
@@ -128,14 +142,17 @@ show.
   got, but with the flood of submissions and the zero incentives for
   reviewers, it's become functionally broken.
 
+
 - *Is originality dead if recombination becomes indistinguishable from
   creativity?* Originality is dead now, what are you talking
   about. Most papers are delta papers, changing something ever so
   slightly.
 
+
 - *Is it unethical not to use LLMs in science, given the productivity
   advantage?* Unethical? No. You can definitely /not/ use LLMs. You're
   not better than the ones who do, though.
+
 
 - *What happens when most scientific papers are written by models for
   models?* This deserves a very long answer. In short, I believe
@@ -144,20 +161,25 @@ show.
   is now an OSS project, interacting with =github=. But I need more
   space to discuss this one.
 
+
 - *Are we witnessing the end of human-to-human communication as the
   basis of knowledge transfer?* I don't know. But I hope so.
+
 
 - *If an LLM can design an experiment better than I can, who gets the
   grant?* Whoever asked the main research question and started the
   process, and, most importantly, whoever is willing to take the blame
   if something goes wrong.
 
+
 - *Why do we still pretend that human cognition is the benchmark?* I
   don't know. We should strive for better benchmarks than human
   cognition. It's hard to imagine things we don't know, though.
 
+
 - *Do we need a new academic field to study synthetic minds?* Yes, I'd
   say so. But I don't know what form that will take.
+
 
 - *If LLMs can pass moral reasoning tests, should they be allowed to
   vote?* I don't know.
